@@ -2,6 +2,14 @@
     width: 100%;
     height: 30px;
     font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+
+h1, h2, h3{
+    font-family: 'Courier New', Courier, monospace;
+
 }
 
 .btn {
@@ -10,4 +18,21 @@
     margin-left: 50%;
     margin-right: 50%;
     font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+
     }
+
+div.jumbotron{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+form{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h3{
+    padding-left: 10%;
+    padding-right: 10%;
+}

@@ -90,6 +90,7 @@ class Article extends Component {
             <Jumbotron>
               <h1>Search Articles</h1>
             </Jumbotron>
+            <br />
             <form>
               <Input
                 value={this.state.startDate}
